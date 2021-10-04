@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "leanneg",
+      "email": "leanneg@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998"
+      },
+      "phone": "8031-6442"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "ervinhowell",
+      "email": "ervinh@channelsix.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566"
+      },
+      "phone": "6593-9125"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "clementbauch",
+      "email": "clementbauch@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590"
+      },
+      "phone": "4631-4447"
+    },
+    {
+      "id": 4,
+      "name": "Julianne Conner",
+      "username": "julianconner",
+      "email": "julianneconner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919"
+      },
+      "phone": "4931-9623"
+    },
+    {
+      "id": 5,
+      "name": "Lucio Hettinger",
+      "username": "kraken",
+      "email": "lucio_Hettinger@techinc.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "phone": "(254)954-1289"
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "username": "dennissch",
+      "email": "dennis_sch@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505"
+      },
+      "phone": "5147-7935"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "kurtisw",
+      "email": "kurtis.weiss@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804"
+      },
+      "phone": "2100-6132"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "username": "nicruno",
+      "email": "nicholasruno@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "5864-6943"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "delphine",
+      "email": "glenna.delphine@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495"
+      },
+      "phone": "6794-1206"
+    },
+    {
+      "id": 10,
+      "name": "Moriah Stanton",
+      "username": "moriahst",
+      "email": "moriahst90@mailchamp.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428"
+      },
+      "phone": "2464-3804"
+    }
+  ]
+}
